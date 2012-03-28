@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Calculator!</string>
+    <string name="app_name">Calculator</string>
+    <string name="B1">1</string>
+    <string name="B2">2</string>
+    <string name="B3">3</string>
+    <string name="B4">4</string>
+    <string name="B5">5</string>
+    <string name="B6">6</string>
+    <string name="B7">7</string>
+    <string name="B8">8</string>
+    <string name="B9">9</string>
+    <string name="B0">0</string>
+    <string name="Dot">.</string>
+    <string name="Eq">=</string>
+    <string name="Clear">Clear</string><string name="sum">+</string>
+    <string name="dif">-</string>
+    <string name="mul">x</string>
+    <string name="div">/</string>
+    <string name="Empty">0</string>
+    <dimen name="ButtonSize">80dp</dimen>
+    <dimen name="ButtonSizeLand">76dp</dimen>
+    
+    <dimen name="TextSize">30dp</dimen>
+    <dimen name="TextSizeLand">30dp</dimen><dimen name="TextSizeClearButton">20dp</dimen><dimen name="TextSizeClearButtonLand" >20dp</dimen><dimen name="ViewedTextSize">45dp</dimen><dimen name="TextViewHeight">65dp</dimen><dimen name="ButtonMargin">2dp</dimen><color name="BackgroundColor">#8B8B83</color>
+    <color name="ButtonColor">#CDCDC1</color>
+    
+    
+    
+    
+    
+
+</resources>
